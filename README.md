@@ -17,11 +17,13 @@ Patches the FHD version of Sabbat of the Witch with English text and UI.
 2. Locate and find Sanoba Witch's game folder
 3. Copy over `unencrypted.xp3` and `version.dll` to the game folder
 
+Once installed, click on the language option at the top right to change language to English.  
+
 ### Uninstall 
 1. Remove `unencrypted.xp3` and `version.dll` from the game folder
 
 ## Disclaimer
-This is an unofficial, non-commercial fan patch. All rights to the original game and its assets belong to Yuzusoft and the relevant publishers, including Hikari Field and NekoNyan. This project is not affiliated with or endorsed by any of them.
+This is an unofficial, non-commercial fan patch. All rights to the original game and its assets belong to Yuzusoft and the relevant publishers, including HIKARI FIELD and NekoNyan. This project is not affiliated with or endorsed by any of them.
 
 ## Donation
 If you'd like to support me, feel free to donate via Patreon at https://www.patreon.com/c/momo_mods
