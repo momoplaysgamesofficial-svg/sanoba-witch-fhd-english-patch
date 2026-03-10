@@ -26,4 +26,4 @@ Once installed, click on the language option at the top right to change language
 This is an unofficial, non-commercial fan patch. All rights to the original game and its assets belong to Yuzusoft and the relevant publishers, including HIKARI FIELD and NekoNyan. This project is not affiliated with or endorsed by any of them.
 
 ## Donation
-If you'd like to support me, feel free to donate via Patreon at https://www.patreon.com/c/momo_mods
+If you'd like to support me, feel free to donate via [Patreon](https://www.patreon.com/c/momo_mods)
